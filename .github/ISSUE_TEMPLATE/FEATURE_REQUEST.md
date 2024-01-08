@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Request a feature
 about: Please search for similar requests before suggesting an enhancement.
 title: '💡 idea: '
 labels: 'enhancement'
