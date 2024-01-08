@@ -1,4 +1,4 @@
-# Closes #<!-- GitHub issue number that this pull request closes. Pull requests without a reference to a GitHub issue will be closed automatically. -->
+# Closes #<!-- GitHub issue number that this pull request closes. Pull requests without a reference to a GitHub issue may be closed. -->
 
 ## Description
 
