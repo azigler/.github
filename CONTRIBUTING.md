@@ -1,6 +1,6 @@
 # Contributing Guide
 
-> Become a contributor! ❤️
+> Become a contributor ❤️
 
 Please use the provided issue templates to discuss any bugs or features.
 

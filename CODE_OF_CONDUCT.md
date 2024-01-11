@@ -1,6 +1,6 @@
 # Code of Conduct
 
-> Read this entire document before participating. 📋
+> Read this entire document before participating 📋
 
 ## Our pledge
 
