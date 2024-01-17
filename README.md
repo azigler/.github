@@ -1,7 +1,7 @@
 # azigler/.github
 
 > [!NOTE]
-> Community health files for [azigler](https://github.com/azigler) repositories 🩺
+> Default community health files for [azigler](https://github.com/azigler) repositories 🩺
 
 <!-- omit from toc -->
 ## Table of Contents
