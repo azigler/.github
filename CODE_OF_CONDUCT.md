@@ -1,5 +1,6 @@
 # Code of Conduct
 
+> [!IMPORTANT]
 > Read this entire document before participating 📋
 
 ## Our pledge
