@@ -8,12 +8,4 @@ assignees: ''
 
 ## Description
 
-<!-- Provide a clear and concise description of the feature. Explain how this feature addresses a problem, such as an open issue. If necessary, add screenshots and/or logs. -->
-
-## Alternatives considered
-
-<!-- Provide a clear and concise description of any alternative solutions or features you've considered in relation to this request. -->
-
-## Additional context
-
-<!-- Add any other context about the feature. Be sure to link to any relevant discussions or resources. -->
+<!-- Provide a clear and concise description of the feature. Explain how this feature addresses a problem, such as an open issue. If necessary, add screenshots and/or logs. Describe any alternatives you considered in relation to this request. Be sure to link to any relevant discussions or resources. -->
